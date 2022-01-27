@@ -36,7 +36,7 @@ const Navigation = (props) => {
           <a href="/#portfolio">
             <li className={classes.listitem}>Portfolio</li>{" "}
           </a>
-          <a href="/#Blog">
+          <a href="https://geekyreviews.in/">
             <li className={classes.listitem}>Blog</li>{" "}
           </a>
           <a href="/#contact">
