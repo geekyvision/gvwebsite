@@ -33,9 +33,9 @@ const Footer = (props) => {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://wa.me/+918460149270"
+                href="https://wa.me/+918401949270"
               >
-                +91 84601 49270
+                +91 84019 49270
               </a>
             </p>
           </div>
